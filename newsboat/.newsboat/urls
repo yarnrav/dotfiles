@@ -1,0 +1,44 @@
+"query:Youtube:tags # \"Youtube\"" meta
+"query:Unread:unread = \"yes\""
+
+" "
+"(YOUTUBE)"
+https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw Youtube 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA Youtube 
+https://www.youtube.com/feeds/videos.xml?channel_id=UC7_YxT-KID8kRbqZo7MyscQ Youtube 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCBvDXebA81UObfspLZrhh_Q Youtube 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCI8GDFj5BQCQrSHITFebzkA Youtube 
+https://www.youtube.com/feeds/videos.xml?channel_id=UCKYcfq8_yAieQRZ81M_A7hw Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCQkd05iAYed2-LOmhjzDG6g Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCS_0Yt7tPIgDQXmwhAMNIsw Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCUQTqWAaSzhAKRanOpes1nA Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVfwlh9XpX2Y_tQfjeln9QA Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCXuqSBlHAE6Xw-yeJA0Tunw Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCdlxWNzGGPKzQLMXkkyZkUQ Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCedYGs_lqq1uNet0u7qlSyQ Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkIccKaHDGA8lYVmUerLhag Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UClM2LuQ1q5WEc23462tQzBg Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoBapgfK_m6G7airg1rdn8w Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCoRR6OLuIZ2-5VxtnQIaN2w Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCrJhSmz4zo9t-Z2GdHECW7A Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsDxB-CSMQ0Vu_hTag7-2UQ Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCzOp2Gt6-FLZy5-spwOCiSw Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCaeO5vkdj5xOQHp4UmIN6dw Youtube
+https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg Youtube
+
+" "
+"(PODCASTS)"
+https://notrelated.xyz/rss "~Not Related" "Podcasts" 
+http://vault.lunduke.com/LundukeShowMP3.xml "~The Lunduke Show" "Podcasts"
+https://wretched.org/category/radio/feed/ "~Wretched Radio" "Podcasts"
+" "
+"(BLOGS)"
+# Bryan Lunduke
+https://lunduke.com/index.xml "Blog"
+https://lukesmith.xyz/rss.xml "Blog"
