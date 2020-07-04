@@ -16,3 +16,9 @@
 - zathura
 - vim
 
+## Installation
+
+Run:
+```
+rm -rf .git README.md && stow -t ~ *
+```
