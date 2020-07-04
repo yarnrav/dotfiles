@@ -10,8 +10,7 @@
 - mupen64plus
 - dunst
 - fontconfig
-- ranger
-- sxhkd
+- lf
 - sxiv 
 - zathura
 - vim
