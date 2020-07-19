@@ -1,12 +1,14 @@
 let mapleader =" "
 
 source $HOME/.config/vim/plug-config/coc.vim
+source $HOME/.config/vim/plug-config/start-screen.vim
 
 map <leader>f : NERDTreeToggle<CR>
 map <leader>p :PlugInstall<CR>
 map <leader>d :Goyo \| set linebreak<CR>
 map <leader>c "y+<CR>
 map <leader>v "P+<CR>
+map <leader>b :Bookmark
 
 filetype plugin on
 syntax on
@@ -17,12 +19,15 @@ set wildmenu
 set autowrite
 set hidden
 set cmdheight=2
+set termguicolors
 set undodir=$XDG_DATA_HOME/vim/undo
 set directory=$XDG_DATA_HOME/vim/swap
 set backupdir=$XDG_DATA_HOME/vim/backup
 set viewdir=$XDG_DATA_HOME/vim/view
 set viminfo+='1000,n$XDG_DATA_HOME/vim/viminfo
 set runtimepath=$XDG_CONFIG_HOME/vim,$VIMRUNTIME,$XDG_CONFIG_HOME/vim/after
+
+let g:startify_session_dir = '~/.config/vim/session'
 
 call plug#begin('~/.config/vim/plugged')
 Plug 'junegunn/goyo.vim'
@@ -35,10 +40,14 @@ Plug 'rrethy/vim-hexokinase'
 Plug 'dylanaraps/wal.vim'
 Plug 'vimwiki/vimwiki'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
+Plug 'dracula/vim', { 'as': 'dracula' }
+Plug 'vim-airline/vim-airline'
+Plug 'vim-airline/vim-airline-themes'
+Plug 'mhinz/vim-startify'
 call plug#end()
 
-colorscheme wal
+colorscheme dracula
 
 autocmd BufwritePost ~/.Xresources,~/.Xdefaults !xrdb %
 nnoremap <C-c> :!make<CR>
-
+set viminfo+=n~/nvim/tmpfiles/viminfo

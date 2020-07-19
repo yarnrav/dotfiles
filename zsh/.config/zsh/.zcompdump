@@ -102,7 +102,6 @@ _comps=(
 'brctl' '_brctl'
 'bsdgrep' '_grep'
 'bsdtar' '_tar'
-'bspc' '_bspc'
 'btdownloadcurses' '_bittorrent'
 'btdownloadgui' '_bittorrent'
 'btdownloadheadless' '_bittorrent'
@@ -129,6 +128,11 @@ _comps=(
 'cabal' '_cabal'
 'cal' '_cal'
 'calendar' '_calendar'
+'calibre' '_calibre'
+'calibredb' '_calibre'
+'calibre-debug' '_calibre'
+'calibre-server' '_calibre'
+'calibre-smtp' '_calibre'
 'cargo' '_cargo'
 'cat' '_cat'
 'catchsegv' '_precommand'
@@ -274,6 +278,11 @@ _comps=(
 'dwb' '_webbrowser'
 'e2label' '_e2label'
 'eatmydata' '_precommand'
+'ebook-convert' '_calibre'
+'ebook-edit' '_calibre'
+'ebook-meta' '_calibre'
+'ebook-polish' '_calibre'
+'ebook-viewer' '_calibre'
 'ecasound' '_ecasound'
 'echotc' '_echotc'
 'echoti' '_echoti'
@@ -302,7 +311,6 @@ _comps=(
 'eview' '_vim'
 'evim' '_vim'
 'evince' '_evince'
-'exa' '_exa'
 'exec' '_exec'
 'expand' '_unexpand'
 'export' '_typeset'
@@ -314,7 +322,9 @@ _comps=(
 'fc' '_fc'
 'fc-list' '_xft_fonts'
 'fc-match' '_xft_fonts'
+'fd' '_fd'
 'feh' '_feh'
+'fetch-ebook-metadata' '_calibre'
 'fetchmail' '_fetchmail'
 'ffmpeg' '_ffmpeg'
 'fg' '_jobs_fg'
@@ -338,7 +348,6 @@ _comps=(
 'fixwpps' '_psutils'
 'fixwwps' '_psutils'
 'flac' '_flac'
-'flatpak' '_flatpak'
 'flex' '_flex'
 'flex++' '_flex'
 'flipdiff' '_patchutils'
@@ -681,6 +690,8 @@ _comps=(
 'lpr' '_lp'
 'lprm' '_lp'
 'lpstat' '_lp'
+'lrf2lrs' '_calibre'
+'lrfviewer' '_calibre'
 'ls' '_ls'
 'lsattr' '_lsattr'
 'lsblk' '_lsblk'
@@ -1430,6 +1441,7 @@ _comps=(
 'xview' '_xloadimage'
 'xvnc4viewer' '_vnc'
 'xvncviewer' '_vnc'
+'xwallpaper' '_xwallpaper'
 'xwd' '_x_utils'
 'xwininfo' '_x_utils'
 'xwit' '_xwit'
@@ -1614,12 +1626,12 @@ bindkey '^[,' _history-complete-newer
 bindkey '^[/' _history-complete-older
 bindkey '^[~' _bash_complete-word
 
-autoload -Uz _bspc _cargo _cmus _curl _downgrade \
-            _email-notmuch _exa _flatpak _hg _libinput \
-            _loginctl _luarocks _luarocks-admin _meson _mkinitcpio \
-            _mpv _netctl _ninja _nnn _notmuch \
-            _pacman _pass _pkgfile _pulseaudio _qpdf \
-            _rg _transmission-remote-cli _wpg _yay _youtube-dl \
+autoload -Uz _calibre _cargo _cmus _curl _downgrade \
+            _email-notmuch _fd _hg _libinput _loginctl \
+            _luarocks _luarocks-admin _meson _mkinitcpio _mpv \
+            _netctl _ninja _nnn _notmuch _pacman \
+            _pass _pkgfile _pulseaudio _qpdf _rg \
+            _transmission-remote-cli _wpg _xwallpaper _yay _youtube-dl \
             _zathura _cdr _all_labels _all_matches _alternative \
             _approximate _arg_compile _arguments _bash_completions _cache_invalid \
             _call_function _combination _complete _complete_debug _complete_help \

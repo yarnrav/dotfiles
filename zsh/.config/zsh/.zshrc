@@ -6,7 +6,6 @@ stty stop undef		# Disable ctrl-s to freeze terminal.
 LS_COLORS='no=00;37:fi=00;94:di=00;33:ln=00;36:pi=40;33:so=01;35:bd=40;33;01:'
 export LS_COLORS
 
-source ~/.zprofile
 
 HISTSIZE=10000
 SAVEHIST=10000
@@ -22,7 +21,7 @@ bashcompinit
 
 lfcd () {
     tmp="$(mktemp)"
-    lf -last-dir-path="$tmp" "$@"
+    lfrun -last-dir-path="$tmp" "$@"
     if [ -f "$tmp" ]; then
         dir="$(cat "$tmp")"
         rm -f "$tmp" >/dev/null

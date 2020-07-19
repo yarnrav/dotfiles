@@ -42,3 +42,6 @@ https://wretched.org/category/radio/feed/ "~Wretched Radio" "Podcasts"
 # Bryan Lunduke
 https://lunduke.com/index.xml "Blog"
 https://lukesmith.xyz/rss.xml "Blog"
+" "
+"(INBOX)"
+https://www.reddit.com/login/.rss?dest=https%3A%2F%2Fwww.reddit.com%2Fmessage%2Finbox.rss "Inbox"

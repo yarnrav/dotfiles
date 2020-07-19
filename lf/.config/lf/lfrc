@@ -1,9 +1,10 @@
-# interpreter for shell commands (needs to be POSIX compatible)
+#ad
+set ratios 1:2:3
+set previewer ~/.config/lf/preview
 set shell zsh
 set color256 on
 set icons true
 set preview true
-set previewer /usr/bin/pistol
 # set '-eu' options for shell commands
 # These options are used to have safer shell commands. Option '-e' is used to
 # exit on error and option '-u' is used to give error for unset variables.
@@ -88,9 +89,13 @@ cmd zip ${{
     rm -rf $1
 }}
 
+cmd imgcls ${{
+	$HOME/.config/lf/image clear
+}}
+
 #Mappings
 
-map <delete> trash
+map <delete> delete
 map <bs2> set hidden!
 map r push :rename<space>
 map <enter> shell
@@ -98,5 +103,5 @@ map x $$f
 map X !$f
 map o &xdg-open $f
 map + :video_preview
-map m push :mkdir<space>
+map M push :mkdir<space>
 map R :bulkrename
