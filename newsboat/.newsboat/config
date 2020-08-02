@@ -1,10 +1,10 @@
-color background        white    black
-color listnormal        color244 black
+color background        white    default
+color listnormal        color244 default
 color listfocus         default  red
 color listnormal_unread white    default
 color listfocus_unread  default  red
 color info              black    yellow
-color article           white    black
+color article           white    default
 
 bind-key j down
 bind-key k up

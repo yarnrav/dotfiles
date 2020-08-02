@@ -3,8 +3,7 @@
 
     # Which monitor should the notifications be displayed on.
     monitor = 0
-
-    # Display notification on focused monitor.  Possible modes are:
+# Display notification on focused monitor.  Possible modes are:
     #   mouse: follow mouse pointer
     #   keyboard: follow window with keyboard focus
     #   none: don't follow anything
@@ -29,8 +28,7 @@
     # the top and down respectively.
     # The width can be negative.  In this case the actual width is the
     # screen width minus the width defined in within the geometry option.
-    geometry = "250x25-0+20"
-
+    geometry = "250x25-0+20" 
     # Show how many messages are currently hidden (because of geometry).
     indicate_hidden = yes
 
@@ -41,7 +39,7 @@
     # The transparency of the window.  Range: [0; 100].
     # This option will only work if a compositing window manager is
     # present (e.g. xcompmgr, compiz, etc.).
-    transparency = 0
+    transparency = 5
 
     # The height of the entire notification.  If the height is smaller
     # than the font height and padding combined, it will be raised
@@ -61,10 +59,10 @@
 
     # Defines width in pixels of frame around the notification window.
     # Set to 0 to disable.
-    frame_width = 2
+    frame_width = 0
 
     # Defines color of the frame around the notification window.
-    frame_color = foreground
+    frame_color = background
     # Define a color for the separator.
     # possible values are:
     #  * auto: dunst tries to find a color fitting to the background;
@@ -274,15 +272,15 @@
 [urgency_low]
     # IMPORTANT: colors have to be defined in quotation marks.
     # Otherwise the "#" and following would be interpreted as a comment.
-    background = "#222222"
+    background = "#002b36"
     foreground = "#888888"
     timeout = 10
     # Icon for notifications with low urgency, uncomment to enable
     #icon = /path/to/icon
 
 [urgency_normal]
-    background = "#2E3440"
-    foreground = "#D8DEE9"
+    background = "#002b36"
+    foreground = "#839496"
     timeout = 10
     # Icon for notifications with normal urgency, uncomment to enable
     #icon = /path/to/icon

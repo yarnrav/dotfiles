@@ -1,5 +1,5 @@
 export PATH="$PATH:$(du "$HOME/bin" | cut -f2 | paste -sd ':')"
-export EDITOR="vim"
+export EDITOR="nvim"
 export SHELL="zsh"
 export OPENER="xdg-open"
 export WM="dwm"
@@ -26,7 +26,13 @@ export ANDROID_SDK_HOME="$XDG_CONFIG_HOME"/android
 export ADB_VENDOR_KEY="$XDG_CONFIG_HOME"/android
 export GTK2_RC_FILES="$XDG_CONFIG_HOME"/gtk-2.0/gtkrc
 export SUDO_ASKPASS="$HOME/scripts/dmenupass"
-
+export NO_AT_BRIDGE=1
+export GOPATH="~/.local/share/go"
+export PARALLEL_HOME="$XDG_CONFIG_HOME"/parallel
+export CARGO_HOME="$XDG_DATA_HOME"/cargo
+export NUGET_PACKAGES="$XDG_CACHE_HOME"/NuGetPackages
+export PYLINTHOME="$XDG_CACHE_HOME"/pylint
+export STACK_ROOT="$XDG_DATA_HOME"/stack
 export LF_ICONS="\
 di=:\
 fi=:\

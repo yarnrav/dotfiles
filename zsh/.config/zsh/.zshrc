@@ -28,12 +28,23 @@ lfcd () {
         [ -d "$dir" ] && [ "$dir" != "$(pwd)" ] && cd "$dir"
     fi
 }
+function preexec() {
+  timer=${timer:-$SECONDS}
+}
 
+function precmd() {
+  if [ $timer ]; then
+    timer_show=$(($SECONDS - $timer))
+    export RPROMPT="%F{cyan}${timer_show}s %{$reset_color%}"
+    unset timer
+  fi
+}
+export PS1="➜ "
 bindkey -s '^f' 'clear\n'
 bindkey '^[[P' delete-char
 bindkey -s '^o' 'lfcd\n'
 source $ZDOTDIR/aliases
 source $ZDOTDIR/compleat_setup
-source $ZDOTDIR/promptless/promptless.sh
 source $ZDOTDIR/zsh-syntax-highlighting/zsh-syntax-highlighting.zsh
 source $ZDOTDIR/zsh-autosuggestions/zsh-autosuggestions.zsh
+source ~/.zprofile

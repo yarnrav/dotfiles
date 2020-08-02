@@ -21,7 +21,6 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCf93fPKwotph47H3_KDcRyg You
 https://www.youtube.com/feeds/videos.xml?channel_id=UCg6gPGh8HU2U01vaFCAsvmQ Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCjr2bPAyPV7t35MvcgT3W8Q Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCkIccKaHDGA8lYVmUerLhag Youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UCkK9UDm_ZNrq_rIXCz3xCGA Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UClM2LuQ1q5WEc23462tQzBg Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCld68syR8Wi-GY_n4CaoJGA Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCoBapgfK_m6G7airg1rdn8w Youtube
@@ -35,13 +34,8 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg You
 " "
 "(PODCASTS)"
 https://notrelated.xyz/rss "~Not Related" "Podcasts" 
-http://vault.lunduke.com/LundukeShowMP3.xml "~The Lunduke Show" "Podcasts"
 https://wretched.org/category/radio/feed/ "~Wretched Radio" "Podcasts"
 " "
 "(BLOGS)"
 # Bryan Lunduke
-https://lunduke.com/index.xml "Blog"
 https://lukesmith.xyz/rss.xml "Blog"
-" "
-"(INBOX)"
-https://www.reddit.com/login/.rss?dest=https%3A%2F%2Fwww.reddit.com%2Fmessage%2Finbox.rss "Inbox"

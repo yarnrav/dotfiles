@@ -1,9 +1,9 @@
-sw_volume: 85
+sw_volume: 4
 audio_device_state:1:Visualizer feed
 audio_device_state:1:pulse audio
 state: pause
-current: 0
-time: 172.716000
+current: 32
+time: 6.369000
 random: 1
 repeat: 0
 single: 0
@@ -12,26 +12,41 @@ crossfade: 20
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Christian/2nd Chapter Of Acts - 1986 - Hymns/01 - All Creatures of Our God and King.mp3
-1:Christian/2nd Chapter Of Acts - 1986 - Hymns/01 - All Creatures of Our God and King.mp3
-2:Christian/2nd Chapter Of Acts - 1986 - Hymns/02 - My Jesus I Love Thee.mp3
-3:Christian/2nd Chapter Of Acts - 1986 - Hymns/03 - Great Is Thy Faithfulness.mp3
-4:Christian/2nd Chapter Of Acts - 1986 - Hymns/04 - Joyful, Joyful, We adore Thee.mp3
-5:Christian/2nd Chapter Of Acts - 1986 - Hymns/05 - Crown Him With Many Crowns.mp3
-6:Christian/2nd Chapter Of Acts - 1986 - Hymns/06 - Take My Life and Let It Be (Nottingham).mp3
-7:Christian/2nd Chapter Of Acts - 1986 - Hymns/07 - Holy, Holy, Holy.mp3
-8:Christian/2nd Chapter Of Acts - 1986 - Hymns/08 - Fairest Lord Jesus.mp3
-9:Christian/2nd Chapter Of Acts - 1986 - Hymns/09 - O The Deep, Deep Love Of Jesus.mp3
-10:Christian/2nd Chapter Of Acts - 1986 - Hymns/10 - How Great Thou Art.mp3
-11:Christian/2nd Chapter Of Acts - 1988 - Hymns II/01 - Medley.mp3
-12:Christian/2nd Chapter Of Acts - 1988 - Hymns II/02 - It Is Well With My Soul.mp3
-13:Christian/2nd Chapter Of Acts - 1988 - Hymns II/03 - This Is My Father's World.mp3
-14:Christian/2nd Chapter Of Acts - 1988 - Hymns II/04 - Of For a Thousand Tongues.mp3
-15:Christian/2nd Chapter Of Acts - 1988 - Hymns II/05 - Morning Has Broken.mp3
-16:Christian/2nd Chapter Of Acts - 1988 - Hymns II/06 - Be Still, My Soul.mp3
-17:Christian/2nd Chapter Of Acts - 1988 - Hymns II/07 - A Mighty Fortress.mp3
-18:Christian/2nd Chapter Of Acts - 1988 - Hymns II/08 - Come, Thou Long Expected Jesus.mp3
-19:Christian/2nd Chapter Of Acts - 1988 - Hymns II/09 - O Sacred Head, Now Wounded.mp3
-20:Christian/2nd Chapter Of Acts - 1988 - Hymns II/10 - Purify Me.mp3
-21:Christian/2nd Chapter Of Acts - 1988 - Hymns II/11 - O Worship the King.mp3
+0:Rap/NF/NF - Mansion (2015)/01 Intro.mp3
+1:Rap/NF/NF - Mansion (2015)/02 Mansion (Feat. Fleurie).mp3
+2:Rap/NF/NF - Mansion (2015)/03 All I Have.mp3
+3:Rap/NF/NF - Mansion (2015)/04 Wait.mp3
+4:Rap/NF/NF - Mansion (2015)/05 Wake Up.mp3
+5:Rap/NF/NF - Mansion (2015)/06 Face It.mp3
+6:Rap/NF/NF - Mansion (2015)/07 Motivated.mp3
+7:Rap/NF/NF - Mansion (2015)/08 Notepad.mp3
+8:Rap/NF/NF - Mansion (2015)/09 Turn The Music Up.mp3
+9:Rap/NF/NF - Mansion (2015)/10 Paralyzed.mp3
+10:Rap/NF/NF - Mansion (2015)/11 I'll Keep On (Feat. Jeremiah Carlson).mp3
+11:Rap/NF/NF - Mansion (2015)/12 Can You Hold Me (Feat. Britt Nicole).mp3
+12:Rap/NF/NF - The Search [2019-Album]/01 The Search.mp3
+13:Rap/NF/NF - The Search [2019-Album]/02 Leave Me Alone.mp3
+14:Rap/NF/NF - The Search [2019-Album]/03 Change.mp3
+15:Rap/NF/NF - The Search [2019-Album]/04 My Stress.mp3
+16:Rap/NF/NF - The Search [2019-Album]/05 Nate.mp3
+17:Rap/NF/NF - The Search [2019-Album]/06 Time (Extended).mp3
+18:Rap/NF/NF - The Search [2019-Album]/07 Returns.mp3
+19:Rap/NF/NF - The Search [2019-Album]/08 When I Grow Up.mp3
+20:Rap/NF/NF - The Search [2019-Album]/09 Only.mp3
+21:Rap/NF/NF - The Search [2019-Album]/10 Let Me Go.mp3
+22:Rap/NF/NF - The Search [2019-Album]/11 -Interlude-.mp3
+23:Rap/NF/NF - The Search [2019-Album]/12 Hate Myself.mp3
+24:Rap/NF/NF - The Search [2019-Album]/13 I Miss the Days.mp3
+25:Rap/NF/NF - The Search [2019-Album]/14 No Excuses.mp3
+26:Rap/NF/NF - The Search [2019-Album]/15 Like This.mp3
+27:Rap/NF/NF - The Search [2019-Album]/16 Options.mp3
+28:Rap/NF/NF - The Search [2019-Album]/17 Why.mp3
+29:Rap/NF/NF - The Search [2019-Album]/18 Thinking.mp3
+30:Rap/NF/NF - The Search [2019-Album]/19 Trauma.mp3
+31:Rap/NF/Singles/01 Why.mp3
+32:Rap/NF/Singles/NF - How Could You Leave Us.mp3
+33:Rap/NF/Singles/NF - Let You Down.mp3
+34:Rap/NF/Singles/NF - PAID MY DUES.mp3
+35:Rap/NF/Singles/NF - Real.mp3
+36:Rap/NF/Singles/NF - Therapy Session.mp3
 playlist_end
