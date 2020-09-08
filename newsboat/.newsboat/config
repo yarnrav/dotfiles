@@ -17,5 +17,6 @@ auto-reload yes
 
 browser "/usr/bin/w3m %u"
 
-macro m set browser "/home/ya/bin/mpv_yt %u"; open-in-browser ; set browser "/usr/bin/w3m %u"
-macro f set browser "/usr/bin/waterfox-current %u"; open-in-browser ; set browser "/usr/bin/w3m %u"
+macro m set browser "/usr/bin/mpv %u"; open-in-browser ; set browser "/usr/bin/w3m %u"
+macro f set browser "/usr/bin/firefox %u"; open-in-browser ; set browser "/usr/bin/w3m %u"
+macro r set browser "/usr/bin/tuir --enable-media %u"; open-in-browser ; set browser "/usr/bin/w3m %u"

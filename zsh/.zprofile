@@ -1,4 +1,4 @@
-export PATH="$PATH:$(du "$HOME/bin" | cut -f2 | paste -sd ':')"
+export PATH="$PATH:$(du "$HOME/.local/bin" | cut -f2 | paste -sd ':')"
 export EDITOR="nvim"
 export SHELL="zsh"
 export OPENER="xdg-open"
@@ -11,6 +11,7 @@ export VISUAL="vim"
 export VIDEO="mpv"
 export IMAGE="sxiv"
 
+
 LS_COLORS='no=00;37:fi=00:di=00;33:ln=04;36:pi=40;33:so=01;35:bd=40;33;01:'
 export LS_COLORS;
 export MPD_HOST="::1"
@@ -18,21 +19,23 @@ export MPD_PORT="6600"
 export XDG_CONFIG_HOME="$HOME/.config"
 export XDG_DATA_HOME="$HOME/.local/share"
 export GNUPGHOME="$XDG_DATA_HOME/gnupg"
+export PASSWORD_STORE_DIR="$XDG_DATA_HOME/passwords"
 export ZDOTDIR="$HOME/.config/zsh"
 export VIMINIT='source $MYVIMRC'
 export MYVIMRC='~/.config/vim/vimrc'  #or any other location you want
 export HISTFILE="$XDG_DATA_HOME"/bash/history
 export ANDROID_SDK_HOME="$XDG_CONFIG_HOME"/android
 export ADB_VENDOR_KEY="$XDG_CONFIG_HOME"/android
-export GTK2_RC_FILES="$XDG_CONFIG_HOME"/gtk-2.0/gtkrc
 export SUDO_ASKPASS="$HOME/scripts/dmenupass"
 export NO_AT_BRIDGE=1
-export GOPATH="~/.local/share/go"
+export GOPATH="/home/ya/.local/share/go"
 export PARALLEL_HOME="$XDG_CONFIG_HOME"/parallel
 export CARGO_HOME="$XDG_DATA_HOME"/cargo
 export NUGET_PACKAGES="$XDG_CACHE_HOME"/NuGetPackages
 export PYLINTHOME="$XDG_CACHE_HOME"/pylint
 export STACK_ROOT="$XDG_DATA_HOME"/stack
+export QT_QPA_PLATFORMTHEME="qt5ct"
+export GTK2_RC_FILES=/usr/share/themes/SolArc-Dark/gtk-2.0/gtkrc
 export LF_ICONS="\
 di=:\
 fi=:\

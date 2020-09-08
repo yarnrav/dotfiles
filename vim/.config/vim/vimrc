@@ -26,6 +26,7 @@ set viewdir=$XDG_DATA_HOME/vim/view
 set viminfo+='1000,n$XDG_DATA_HOME/vim/viminfo
 set runtimepath=$XDG_CONFIG_HOME/vim,$VIMRUNTIME,$XDG_CONFIG_HOME/vim/after
 set cmdheight=1
+let g:airline_theme='base16_gruvbox_dark_hard'
 
 let g:startify_session_dir = '~/.config/vim/session'
 
@@ -36,7 +37,6 @@ Plug 'ryanoasis/vim-devicons'
 Plug 'flazz/vim-colorschemes'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'ctrlpvim/ctrlp.vim'
-Plug 'rrethy/vim-hexokinase'
 Plug 'dylanaraps/wal.vim'
 Plug 'vimwiki/vimwiki'
 Plug 'neoclide/coc.nvim', {'branch': 'release'}
@@ -44,9 +44,10 @@ Plug 'dracula/vim', { 'as': 'dracula' }
 Plug 'vim-airline/vim-airline'
 Plug 'vim-airline/vim-airline-themes'
 Plug 'mhinz/vim-startify'
+Plug 'RRethy/vim-hexokinase'
 call plug#end()
 
-colorscheme solarized8_dark_flat
+colorscheme gruvbox
 
 autocmd BufwritePost ~/.Xresources,~/.Xdefaults !xrdb %
 nnoremap <C-c> :!make<CR>
