@@ -1,0 +1,6 @@
+#!/bin/zsh
+cb=$(xrandr --verbose | grep -i "Brightness" | awk '{print $2}');
+case "$1" in
+	up) xrandr --output LVDS1 --brightness $(($cb + 0.2));;
+	down) xrandr --output LVDS1 --brightness $(($cb - 0.2));;
+esac

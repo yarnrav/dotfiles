@@ -1,0 +1,5 @@
+#!/bin/sh 
+vol="$(pamixer --get-volume-human)"
+[ "$vol" = "muted" ] && i=""
+[ "$vol" != "muted" ] && i=""
+printf " %s %s\n" "$i" "$vol"

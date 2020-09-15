@@ -1,0 +1,5 @@
+#!/bin/zsh
+
+ffmpeg -y -i /mnt/ext/Media/music/"$(mpc --format '%file%' current)" ~/.cache/album.png 2>/dev/null & sleep 0.5s
+refbar
+notify-send -i ~/.cache/album.png "Now Playing:" "$(mpc current)"

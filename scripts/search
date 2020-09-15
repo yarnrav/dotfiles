@@ -1,0 +1,10 @@
+#!/bin/sh
+
+case "$1" in
+	new)rm ~/.cache/query.json && curl -s "https://www.googleapis.com/youtube/v3/search?part=snippet&q=$(echo $2 | sed 's/_/%20/g')&safeSearch=none&type=video&maxResults=50&key=AIzaSyCya6O6QT06SWeRyKUg2vlcryxagg6kHyY" >> ~/.cache/query.json  ;;
+	same);;
+esac		
+query=$(jq .items[].snippet.title ~/.cache/query.json | dmenu -i -l 20)
+selnum=$(sed -n -e "/$query/=" .cache/query.json | awk '{print $0 - 5}')
+videoid=$(sed -e "$selnum!d" ~/.cache/query.json)
+mpv_yt https://www.youtube.com/watch?v=$(echo $videoid | sed 's/"//g' | awk '{print $2}')

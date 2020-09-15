@@ -1,0 +1,6 @@
+#!/bin/sh
+
+case "$1" in 
+	audio)ffmpeg -y -f x11grab -s 1366x768 -i $DISPLAY -r 24 -f pulse -ac 1 -i $(pacmd list outputs | grep "index" | fzf | cut -d: -f 2) $1 ;;
+	noaudio)ffmpeg -y -f x11grab -s 1366x768 -i $DISPLAY -r 24 $1 ;;
+esac

@@ -1,0 +1,3 @@
+#!/bin/zsh 
+
+eval $(echo "Shutdown\nReboot\nLock" | dmenu -l 3 | sed 's/Reboot/sudo reboot/g;s/Shutdown/ sudo poweroff/g;s/Lock/ betterlockscreen -l dimblur -t "Hello Human"/g')

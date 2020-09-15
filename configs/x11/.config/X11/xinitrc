@@ -1,0 +1,9 @@
+#!/bin/sh
+[ -f ~/.local/bin/xprofile ] && . ~/.local/bin/xprofile
+
+while :; do
+	ssh-agent dwm || break
+	
+done
+#export XDG_SESSION_TYPE=x11
+#exec startxfce4

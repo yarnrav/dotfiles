@@ -1,0 +1,7 @@
+#!/bin/zsh
+
+
+while true; do
+	xsetroot -name "$(volbar) |  $(mpc current -f %title%) |  $(datebar) | $(netbar) | $(battery)"
+	sleep 60s
+done &

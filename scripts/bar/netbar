@@ -1,0 +1,7 @@
+#!/bin/sh
+
+recieve=$(($(cat /sys/class/net/wlp3s0b1/statistics/rx_bytes ) / 1048576))
+
+transfer=$(($(cat /sys/class/net/wlp3s0b1/statistics/tx_bytes ) / 1048576))
+
+printf "⬆ %d MB ⬇ %d MB\n" "$recieve" "$transfer"
