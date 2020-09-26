@@ -4,13 +4,13 @@ export SHELL="zsh"
 export OPENER="xdg-open"
 export WM="dwm"
 export COLORTERM="truecolor"
-export BROWSER="brave"
+export BROWSER="qutebrowser"
 export TERMINAL="st"
 export READER="zathura"
 export VISUAL="vim"
 export VIDEO="mpv"
 export IMAGE="sxiv"
-
+export NNN_BMS='w:/mnt/ext/dwn/;p:/mnt/ext/Media/Pix/;d:/mnt/ext/Media/dox;v:/mnt/ext/Media/Videos;b:/mnt/ext/Media/Books'
 
 LS_COLORS='no=00;37:fi=00:di=00;33:ln=04;36:pi=40;33:so=01;35:bd=40;33;01:'
 export LS_COLORS;
@@ -35,9 +35,10 @@ export NUGET_PACKAGES="$XDG_CACHE_HOME"/NuGetPackages
 export PYLINTHOME="$XDG_CACHE_HOME"/pylint
 export STACK_ROOT="$XDG_DATA_HOME"/stack
 export QT_QPA_PLATFORMTHEME="qt5ct"
-export GTK2_RC_FILES=/usr/share/themes/McOS-CTLina-XFCE-Dark/gtk-2.0/gtkrc
+export GTK2_RC_FILES=/usr/share/themes/gruvbox-gtk/gtk-2.0/gtkrc
 export XINITRC="$XDG_CONFIG_HOME"/X11/xinitrc
-
+export SPICETIFY_INSTALL="/home/ya/.local/share/spicetify-cli"
+export PATH="$SPICETIFY_INSTALL:$PATH"
 
 export LF_ICONS="\
 di=:\

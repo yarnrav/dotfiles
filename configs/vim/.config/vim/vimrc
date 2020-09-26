@@ -26,7 +26,7 @@ set viewdir=$XDG_DATA_HOME/vim/view
 set viminfo+='1000,n$XDG_DATA_HOME/vim/viminfo
 set runtimepath=$XDG_CONFIG_HOME/vim,$VIMRUNTIME,$XDG_CONFIG_HOME/vim/after
 set cmdheight=1
-let g:airline_theme='base16_gruvbox_dark_hard'
+let g:airline_theme='base16_solarized'
 
 let g:startify_session_dir = '~/.config/vim/session'
 
@@ -47,8 +47,8 @@ Plug 'mhinz/vim-startify'
 Plug 'RRethy/vim-hexokinase'
 call plug#end()
 
-colorscheme gruvbox
-
+colorscheme solarized8_dark_flat
+hi Normal guibg=NONE ctermbg=NONE
 autocmd BufwritePost ~/.Xresources,~/.Xdefaults !xrdb %
 nnoremap <C-c> :!make<CR>
 set viminfo+=n~/nvim/tmpfiles/viminfo

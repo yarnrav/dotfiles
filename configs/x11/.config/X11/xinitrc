@@ -1,9 +1,11 @@
 #!/bin/sh
-[ -f ~/.local/bin/xprofile ] && . ~/.local/bin/xprofile
 
-while :; do
-	ssh-agent dwm || break
-	
-done
-#export XDG_SESSION_TYPE=x11
-#exec startxfce4
+case "$1" in 
+	dwm)	
+		[ -f ~/.config/X11/xprofile ] && . ~/.config/X11/xprofile
+		while :; do
+	     		ssh-agent dwm || break
+	     	done;;
+	xfce) export XDG_SESSION_TYPE=x11
+	      exec startxfce4;;
+esac

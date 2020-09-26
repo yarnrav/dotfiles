@@ -1,9 +1,9 @@
-sw_volume: 40
+sw_volume: 34
 audio_device_state:1:Visualizer feed
 audio_device_state:1:pulse audio
 state: pause
-current: 1
-time: 11.296000
+current: 18
+time: 12.166000
 random: 1
 repeat: 0
 single: 0
@@ -12,10 +12,23 @@ crossfade: 20
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Jazz/Miles Davis/Miles Davis - All Blues (1_2).mp3
-1:Jazz/Miles Davis/Miles Davis - All Blues (2).mp3
-2:Jazz/Miles Davis/Miles Davis - Blue in Green.mp3
-3:Jazz/Miles Davis/Miles Davis - Flamenco Sketches.mp3
-4:Jazz/Miles Davis/Miles Davis - Freddie Freeloader.mp3
-5:Jazz/Miles Davis/Miles Davis - So What.mp3
+0:Jazz/Louie Zong/JAZZ (full EP).mp3
+1:Jazz/Miles Davis/Miles Davis - All Blues (1_2).mp3
+2:Jazz/Miles Davis/Miles Davis - All Blues (2).mp3
+3:Jazz/Miles Davis/Miles Davis - Blue in Green.mp3
+4:Jazz/Miles Davis/Miles Davis - Flamenco Sketches.mp3
+5:Jazz/Miles Davis/Miles Davis - Freddie Freeloader.mp3
+6:Jazz/Miles Davis/Miles Davis - So What.mp3
+7:Classical/Phil Keaggy/Beyond Nature/A Place of Springs.mp3
+8:Classical/Phil Keaggy/Beyond Nature/Addisons Walk.mp3
+9:Classical/Phil Keaggy/Beyond Nature/As Warm As Tears.mp3
+10:Classical/Phil Keaggy/Beyond Nature/Brother Jack.mp3
+11:Classical/Phil Keaggy/Beyond Nature/County Down-.mp3
+12:Classical/Phil Keaggy/Beyond Nature/Fare Thee Well.mp3
+13:Classical/Phil Keaggy/Beyond Nature/Fragile Forest.mp3
+14:Classical/Phil Keaggy/Beyond Nature/I Feel the Winds of God Today.mp3
+15:Classical/Phil Keaggy/Beyond Nature/In the Light of the Common Day (Reprise).mp3
+16:Classical/Phil Keaggy/Beyond Nature/In the Light of the Common Day.mp3
+17:Classical/Phil Keaggy/Beyond Nature/Symphonic Dance (A Variation On Allegretto Grazioso).mp3
+18:Classical/Phil Keaggy/Beyond Nature/When Night Falls.mp3
 playlist_end
