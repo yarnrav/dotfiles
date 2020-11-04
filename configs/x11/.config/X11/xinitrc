@@ -1,11 +1,18 @@
-#!/bin/sh
-
+#!/bin/sh 
+export XDG_SESSION_TYPE=x11
 case "$1" in 
-	dwm)	
+	dwm)
+		[ -f ~/.config/X11/xprofile ] && . ~/.config/X11/xprofile
+		exec dbus-launch --sh-syntax --exit-with-session ~/.local/bin/startdwm;;
+	sowm)	
 		[ -f ~/.config/X11/xprofile ] && . ~/.config/X11/xprofile
 		while :; do
-	     		ssh-agent dwm || break
-	     	done;;
-	xfce) export XDG_SESSION_TYPE=x11
-	      exec startxfce4;;
+	     		ssh-agent sowm || break
+		done;;
+	bspwm)	
+		[ -f ~/.config/X11/xprofile ] && . ~/.config/X11/xprofile
+		while :; do
+	     		ssh-agent bspwm || break
+		done;;
+	xfce)	      exec startxfce4;;
 esac

@@ -1,34 +1,1096 @@
-sw_volume: 34
+sw_volume: 61
 audio_device_state:1:Visualizer feed
 audio_device_state:1:pulse audio
 state: pause
-current: 18
-time: 12.166000
-random: 1
+current: 243
+time: 374.295000
+random: 0
 repeat: 0
 single: 0
 consume: 0
-crossfade: 20
+crossfade: 0
 mixrampdb: 0.000000
 mixrampdelay: -1.000000
 playlist_begin
-0:Jazz/Louie Zong/JAZZ (full EP).mp3
-1:Jazz/Miles Davis/Miles Davis - All Blues (1_2).mp3
-2:Jazz/Miles Davis/Miles Davis - All Blues (2).mp3
-3:Jazz/Miles Davis/Miles Davis - Blue in Green.mp3
-4:Jazz/Miles Davis/Miles Davis - Flamenco Sketches.mp3
-5:Jazz/Miles Davis/Miles Davis - Freddie Freeloader.mp3
-6:Jazz/Miles Davis/Miles Davis - So What.mp3
-7:Classical/Phil Keaggy/Beyond Nature/A Place of Springs.mp3
-8:Classical/Phil Keaggy/Beyond Nature/Addisons Walk.mp3
-9:Classical/Phil Keaggy/Beyond Nature/As Warm As Tears.mp3
-10:Classical/Phil Keaggy/Beyond Nature/Brother Jack.mp3
-11:Classical/Phil Keaggy/Beyond Nature/County Down-.mp3
-12:Classical/Phil Keaggy/Beyond Nature/Fare Thee Well.mp3
-13:Classical/Phil Keaggy/Beyond Nature/Fragile Forest.mp3
-14:Classical/Phil Keaggy/Beyond Nature/I Feel the Winds of God Today.mp3
-15:Classical/Phil Keaggy/Beyond Nature/In the Light of the Common Day (Reprise).mp3
-16:Classical/Phil Keaggy/Beyond Nature/In the Light of the Common Day.mp3
-17:Classical/Phil Keaggy/Beyond Nature/Symphonic Dance (A Variation On Allegretto Grazioso).mp3
-18:Classical/Phil Keaggy/Beyond Nature/When Night Falls.mp3
+0:Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/(01) Castilla (Seguidillas) - Albeniz-Fruhbeck de Burgos.flac
+1:Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/(02) Austurias (Leyenda) - Albeniz-Fruhbeck de Burgos.flac
+2:Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/(03) Argon(Fantasia) - Albeniz-Fruhbeck de Burgos.flac
+3:Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/(04) Cadiz (Cancion) - Albeniz-Fruhbeck de Burgos.flac
+4:Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/(05) Sevilla (Sevillanas) - Albeniz-Fruhbeck de Burgos.flac
+5:Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/(06) Granada (Serenata) - Albeniz-Fruhbeck de Burgos.flac
+6:Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/(07) Cantaluna (Corranda) - Albeniz-Fruhbeck de Burgos.flac
+7:Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/(08) Cordoba - Albeniz-Fruhbeck de Burgos.flac
+song_begin: Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/Suite Espanola.cue/track0001
+Range: 0-150253
+Genre: Classical
+Date: 1968
+AlbumArtist: Albeniz-Fruhbeck de Burgos
+Album: Suite Espanola
+Track: 01
+Title: Castilla (Seguidillas)
+Artist: Albeniz-Fruhbeck de Burgos
+song_end
+song_begin: Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/Suite Espanola.cue/track0002
+Range: 150253-387120
+Genre: Classical
+Date: 1968
+AlbumArtist: Albeniz-Fruhbeck de Burgos
+Album: Suite Espanola
+Track: 02
+Title: Austurias (Leyenda)
+Artist: Albeniz-Fruhbeck de Burgos
+song_end
+song_begin: Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/Suite Espanola.cue/track0003
+Range: 387120-
+Genre: Classical
+Date: 1968
+AlbumArtist: Albeniz-Fruhbeck de Burgos
+Album: Suite Espanola
+Track: 03
+Title: Argon(Fantasia)
+Artist: Albeniz-Fruhbeck de Burgos
+song_end
+song_begin: Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/Suite Espanola.cue/track0004
+Range: 305680-
+Genre: Classical
+Date: 1968
+AlbumArtist: Albeniz-Fruhbeck de Burgos
+Album: Suite Espanola
+Track: 04
+Title: Cadiz (Cancion)
+Artist: Albeniz-Fruhbeck de Burgos
+song_end
+song_begin: Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/Suite Espanola.cue/track0005
+Range: 292813-
+Genre: Classical
+Date: 1968
+AlbumArtist: Albeniz-Fruhbeck de Burgos
+Album: Suite Espanola
+Track: 05
+Title: Sevilla (Sevillanas)
+Artist: Albeniz-Fruhbeck de Burgos
+song_end
+song_begin: Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/Suite Espanola.cue/track0006
+Range: 255640-336253
+Genre: Classical
+Date: 1968
+AlbumArtist: Albeniz-Fruhbeck de Burgos
+Album: Suite Espanola
+Track: 06
+Title: Granada (Serenata)
+Artist: Albeniz-Fruhbeck de Burgos
+song_end
+song_begin: Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/Suite Espanola.cue/track0007
+Range: 336253-
+Genre: Classical
+Date: 1968
+AlbumArtist: Albeniz-Fruhbeck de Burgos
+Album: Suite Espanola
+Track: 07
+Title: Cantaluna (Corranda)
+Artist: Albeniz-Fruhbeck de Burgos
+song_end
+song_begin: Classical/Albeniz Suite Espanola - Fruhbeck De Burgos & New PO [Japan XRCD24 FLAC]/Suite Espanola.cue/track0008
+Range: 181880-
+Genre: Classical
+Date: 1968
+AlbumArtist: Albeniz-Fruhbeck de Burgos
+Album: Suite Espanola
+Track: 08
+Title: Cordoba
+Artist: Albeniz-Fruhbeck de Burgos
+song_end
+16:Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.ape
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0001
+Range: 0-427866
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 01
+Title: Andante tranquilo
+Artist: Bela Bartok
+song_end
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0002
+Range: 427866-849293
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 02
+Title: Allegro
+Artist: Bela Bartok
+song_end
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0003
+Range: 849293-1271226
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 03
+Title: Adagio
+Artist: Bela Bartok
+song_end
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0004
+Range: 1271226-1685360
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 04
+Title: Allegro Molto
+Artist: Bela Bartok
+song_end
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0005
+Range: 1685360-1852760
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 05
+Title: An Evening In The Village
+Artist: Bela Bartok
+song_end
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0006
+Range: 1852760-1954626
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 06
+Title: Bear Dance
+Artist: Bela Bartok
+song_end
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0007
+Range: 1954626-2079893
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 07
+Title: Melody
+Artist: Bela Bartok
+song_end
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0008
+Range: 2079893-2218666
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 08
+Title: Slighty Tipsy
+Artist: Bela Bartok
+song_end
+song_begin: Classical/Bartok Music For Strings, Percussion & Celesta - Reiner & CSO [Japan XRCD2 FLAC]/CDImage.cue/track0009
+Range: 2218666-
+AlbumArtist: Bela Bartok
+Album: Music For Strings Perc & Celesta ....
+Track: 09
+Title: Swineherd's Dance
+Artist: Bela Bartok
+song_end
+26:Classical/Beethoven Piano Sonata No.23 & 12 - Richter [Japan XRCD24 FLAC]/Richter - Beethoven Piano Sonatas 23&12.ape
+song_begin: Classical/Beethoven Piano Sonata No.23 & 12 - Richter [Japan XRCD24 FLAC]/Richter - Beethoven Piano Sonatas 23&12.cue/track0001
+Range: 0-642733
+Genre: Classical
+Date: 1960
+AlbumArtist: Sviatoslav Richter
+Album: Beethoven - Piano Sonatas 23 & 12
+Track: 01
+Title: 1. Piano Sonata No.23 in F Minor, Op.57 'Appassionata' - Allegro assai
+Artist: Sviatoslav Richter
+song_end
+song_begin: Classical/Beethoven Piano Sonata No.23 & 12 - Richter [Japan XRCD24 FLAC]/Richter - Beethoven Piano Sonatas 23&12.cue/track0002
+Range: 642733-999360
+Genre: Classical
+Date: 1960
+AlbumArtist: Sviatoslav Richter
+Album: Beethoven - Piano Sonatas 23 & 12
+Track: 02
+Title: 2. Piano Sonata No.23 in F Minor, Op.57 'Appassionata' - Adante con moto
+Artist: Sviatoslav Richter
+song_end
+song_begin: Classical/Beethoven Piano Sonata No.23 & 12 - Richter [Japan XRCD24 FLAC]/Richter - Beethoven Piano Sonatas 23&12.cue/track0003
+Range: 999360-1430226
+Genre: Classical
+Date: 1960
+AlbumArtist: Sviatoslav Richter
+Album: Beethoven - Piano Sonatas 23 & 12
+Track: 03
+Title: 3. Piano Sonata No.23 in F Minor, Op.57 'Appassionata' - Allegro ma non troppo
+Artist: Sviatoslav Richter
+song_end
+song_begin: Classical/Beethoven Piano Sonata No.23 & 12 - Richter [Japan XRCD24 FLAC]/Richter - Beethoven Piano Sonatas 23&12.cue/track0004
+Range: 1430226-1856160
+Genre: Classical
+Date: 1960
+AlbumArtist: Sviatoslav Richter
+Album: Beethoven - Piano Sonatas 23 & 12
+Track: 04
+Title: 1. Piano Sonata No.12 in A-flat, Op.26 'Funeral March' - Andante con variazioni
+Artist: Sviatoslav Richter
+song_end
+song_begin: Classical/Beethoven Piano Sonata No.23 & 12 - Richter [Japan XRCD24 FLAC]/Richter - Beethoven Piano Sonatas 23&12.cue/track0005
+Range: 1856160-2029893
+Genre: Classical
+Date: 1960
+AlbumArtist: Sviatoslav Richter
+Album: Beethoven - Piano Sonatas 23 & 12
+Track: 05
+Title: 2. Piano Sonata No.12 in A-flat, Op.26 'Funeral March' - Scherzo, Allegro molto
+Artist: Sviatoslav Richter
+song_end
+song_begin: Classical/Beethoven Piano Sonata No.23 & 12 - Richter [Japan XRCD24 FLAC]/Richter - Beethoven Piano Sonatas 23&12.cue/track0006
+Range: 2029893-2401493
+Genre: Classical
+Date: 1960
+AlbumArtist: Sviatoslav Richter
+Album: Beethoven - Piano Sonatas 23 & 12
+Track: 06
+Title: 3. Piano Sonata No.12 in A-flat, Op.26 'Funeral March' - Marcia funebre sulla...
+Artist: Sviatoslav Richter
+song_end
+song_begin: Classical/Beethoven Piano Sonata No.23 & 12 - Richter [Japan XRCD24 FLAC]/Richter - Beethoven Piano Sonatas 23&12.cue/track0007
+Range: 2401493-
+Genre: Classical
+Date: 1960
+AlbumArtist: Sviatoslav Richter
+Album: Beethoven - Piano Sonatas 23 & 12
+Track: 07
+Title: 4. Piano Sonata No.12 in A-flat, Op.26 'Funeral March' - Allegro
+Artist: Sviatoslav Richter
+song_end
+34:Classical/Beethoven Symphony No.7 - Fidelio Overture - Fritz Reiner [Japan XRCD FLAC]/Reiner, CSO (XRCD) - Beethoven Symph No. 7, Fidelio Overture.wv
+song_begin: Classical/Beethoven Symphony No.7 - Fidelio Overture - Fritz Reiner [Japan XRCD FLAC]/Reiner, CSO (XRCD) - Beethoven Symph No. 7, Fidelio Overture_WAV.cue/track0001
+Range: 0-704333
+Genre: Classical
+Date: 1955
+AlbumArtist: Reiner, CSO (XRCD)
+Album: Beethoven Symph No. 7, Fidelio Overture
+Track: 01
+Title: Symphony No. 7 - I Poco sostenuto; Vivace
+Artist: Reiner, CSO (XRCD)
+song_end
+song_begin: Classical/Beethoven Symphony No.7 - Fidelio Overture - Fritz Reiner [Japan XRCD FLAC]/Reiner, CSO (XRCD) - Beethoven Symph No. 7, Fidelio Overture_WAV.cue/track0002
+Range: 704333-1244666
+Genre: Classical
+Date: 1955
+AlbumArtist: Reiner, CSO (XRCD)
+Album: Beethoven Symph No. 7, Fidelio Overture
+Track: 02
+Title: II Allegretto
+Artist: Reiner, CSO (XRCD)
+song_end
+song_begin: Classical/Beethoven Symphony No.7 - Fidelio Overture - Fritz Reiner [Japan XRCD FLAC]/Reiner, CSO (XRCD) - Beethoven Symph No. 7, Fidelio Overture_WAV.cue/track0003
+Range: 1244666-1665000
+Genre: Classical
+Date: 1955
+AlbumArtist: Reiner, CSO (XRCD)
+Album: Beethoven Symph No. 7, Fidelio Overture
+Track: 03
+Title: III Presto; Assai meno presto; Presto
+Artist: Reiner, CSO (XRCD)
+song_end
+song_begin: Classical/Beethoven Symphony No.7 - Fidelio Overture - Fritz Reiner [Japan XRCD FLAC]/Reiner, CSO (XRCD) - Beethoven Symph No. 7, Fidelio Overture_WAV.cue/track0004
+Range: 1665000-2081000
+Genre: Classical
+Date: 1955
+AlbumArtist: Reiner, CSO (XRCD)
+Album: Beethoven Symph No. 7, Fidelio Overture
+Track: 04
+Title: IV Allegro con brio
+Artist: Reiner, CSO (XRCD)
+song_end
+song_begin: Classical/Beethoven Symphony No.7 - Fidelio Overture - Fritz Reiner [Japan XRCD FLAC]/Reiner, CSO (XRCD) - Beethoven Symph No. 7, Fidelio Overture_WAV.cue/track0005
+Range: 2081000-
+Genre: Classical
+Date: 1955
+AlbumArtist: Reiner, CSO (XRCD)
+Album: Beethoven Symph No. 7, Fidelio Overture
+Track: 05
+Title: Fidelio Overture
+Artist: Reiner, CSO (XRCD)
+song_end
+40:Classical/Beethoven Symphony No.9 - Solti & CSO [Japan XRCD24 FLAC]/01 Beethoven Symphony No.9 - I. Allegro ma non troppo, un poco maestoso.flac
+41:Classical/Beethoven Symphony No.9 - Solti & CSO [Japan XRCD24 FLAC]/02 Beethoven Symphony No.9 - II. Molto vivace.flac
+42:Classical/Beethoven Symphony No.9 - Solti & CSO [Japan XRCD24 FLAC]/03 Beethoven Symphony No.9 - III. Adagio molto e cantabile.flac
+43:Classical/Beethoven Symphony No.9 - Solti & CSO [Japan XRCD24 FLAC]/04 Beethoven Symphony No.9 - IV. Presto.flac
+44:Classical/Beethoven Symphony No.9 - Solti & CSO [Japan XRCD24 FLAC]/Solti Collection - Beethoven Symphony No.9 [XRCD24].cue/track0001
+45:Classical/Beethoven Symphony No.9 - Solti & CSO [Japan XRCD24 FLAC]/Solti Collection - Beethoven Symphony No.9 [XRCD24].cue/track0002
+46:Classical/Beethoven Symphony No.9 - Solti & CSO [Japan XRCD24 FLAC]/Solti Collection - Beethoven Symphony No.9 [XRCD24].cue/track0003
+47:Classical/Beethoven Symphony No.9 - Solti & CSO [Japan XRCD24 FLAC]/Solti Collection - Beethoven Symphony No.9 [XRCD24].cue/track0004
+48:Classical/Beethoven Violin Concerto  In D Heifetz Munch [Japan XRCD24 FLAC]/01 Jascha Heifetz (Violin), Boston Symphony Orchestra - I. Allegro, ma non troppo.flac
+49:Classical/Beethoven Violin Concerto  In D Heifetz Munch [Japan XRCD24 FLAC]/02 Jascha Heifetz (Violin), Boston Symphony Orchestra - II. Larghetto.flac
+50:Classical/Beethoven Violin Concerto  In D Heifetz Munch [Japan XRCD24 FLAC]/03 Jascha Heifetz (Violin), Boston Symphony Orchestra - III. Rondo： Allegro.flac
+song_begin: Classical/Beethoven Violin Concerto  In D Heifetz Munch [Japan XRCD24 FLAC]/Beethoven Violin Concerto in D major, Op. 61.cue/track0001
+Range: 0-1234346
+AlbumArtist: Jascha Heifetz (Violin), Boston Symphony Orchestra
+Genre: Classical
+Date: 1955
+Track: 01
+Title: I. Allegro, ma non troppo
+song_end
+song_begin: Classical/Beethoven Violin Concerto  In D Heifetz Munch [Japan XRCD24 FLAC]/Beethoven Violin Concerto in D major, Op. 61.cue/track0002
+Range: 1234346-
+AlbumArtist: Jascha Heifetz (Violin), Boston Symphony Orchestra
+Genre: Classical
+Date: 1955
+Track: 02
+Title: II. Larghetto
+song_end
+53:Classical/Beethoven Violin Concerto  In D Heifetz Munch [Japan XRCD24 FLAC]/Beethoven Violin Concerto in D major, Op. 61.cue/track0003
+54:Classical/Beethoven Violin Concerto - Toshiya Eto, Leitner & LSO [Japan XRCD24 FLAC]/01  I. Allegro ma non troppo.flac
+55:Classical/Beethoven Violin Concerto - Toshiya Eto, Leitner & LSO [Japan XRCD24 FLAC]/02  II. Larghetto.flac
+56:Classical/Beethoven Violin Concerto - Toshiya Eto, Leitner & LSO [Japan XRCD24 FLAC]/03  III. Rondo; Allegro.flac
+song_begin: Classical/Beethoven Violin Concerto - Toshiya Eto, Leitner & LSO [Japan XRCD24 FLAC]/Beethoven Violin Concerto in D, Op.61 [XRCD24].cue/track0001
+Range: 0-1572120
+AlbumArtist: Toshiya Eto & London Symphony Orchestra
+Genre: Classical
+Date: 1970
+Track: 01
+Title: I. Allegro ma non troppo
+song_end
+song_begin: Classical/Beethoven Violin Concerto - Toshiya Eto, Leitner & LSO [Japan XRCD24 FLAC]/Beethoven Violin Concerto in D, Op.61 [XRCD24].cue/track0002
+Range: 1572120-
+AlbumArtist: Toshiya Eto & London Symphony Orchestra
+Genre: Classical
+Date: 1970
+Track: 02
+Title: II. Larghetto
+song_end
+59:Classical/Beethoven Violin Concerto - Toshiya Eto, Leitner & LSO [Japan XRCD24 FLAC]/Beethoven Violin Concerto in D, Op.61 [XRCD24].cue/track0003
+60:Classical/Brahms Violin Concerto In D, Op.77 - Szeryng, Monteux & LSO [Japan XRCD24 FLAC]/Brahms Violin Concerto in D, Op.77.FLAC
+song_begin: Classical/Brahms Violin Concerto In D, Op.77 - Szeryng, Monteux & LSO [Japan XRCD24 FLAC]/Brahms Violin Concerto in D, Op.77.cue/track0001
+Range: 0-1323160
+AlbumArtist: Szeryng - Monteux - London Symphony Orchestra
+Album: Brahms Violin Concerto in D, Op.77
+Track: 01
+Title: Violin Concerto in D, Op.77 I. Allegro non troppo [Cadenza: Joseph Joachim]
+Artist: Szeryng - Monteux - London Symphony Orchestra
+Date: 1958
+Genre: Classical
+song_end
+song_begin: Classical/Brahms Violin Concerto In D, Op.77 - Szeryng, Monteux & LSO [Japan XRCD24 FLAC]/Brahms Violin Concerto in D, Op.77.cue/track0002
+Range: 1323160-1891826
+AlbumArtist: Szeryng - Monteux - London Symphony Orchestra
+Album: Brahms Violin Concerto in D, Op.77
+Track: 02
+Title: Violin Concerto in D, Op.77 II. Adagio
+Artist: Szeryng - Monteux - London Symphony Orchestra
+Date: 1958
+Genre: Classical
+song_end
+song_begin: Classical/Brahms Violin Concerto In D, Op.77 - Szeryng, Monteux & LSO [Japan XRCD24 FLAC]/Brahms Violin Concerto in D, Op.77.cue/track0003
+Range: 1891826-
+AlbumArtist: Szeryng - Monteux - London Symphony Orchestra
+Album: Brahms Violin Concerto in D, Op.77
+Track: 03
+Title: Violin Concerto in D, Op.77 III. Allegro giocoso, ma non troppo vivace
+Artist: Szeryng - Monteux - London Symphony Orchestra
+Date: 1958
+Genre: Classical
+song_end
+64:Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.flac
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0001
+Range: 0-339493
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 01
+Title: Cantate Domino
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0002
+Range: 339493-509493
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 02
+Title: Concerto For Organ In A Major Allegro
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0003
+Range: 509493-566160
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 03
+Title: Concerto For Organ In A Major Adagio
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0004
+Range: 566160-669160
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 04
+Title: Concerto For Organ In A Major Allegro
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0005
+Range: 669160-891093
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 05
+Title: Advent (Otto Olsson)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0006
+Range: 891093-993333
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 06
+Title: Dotter Sion(George Frideric Handel)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0007
+Range: 993333-1148493
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 07
+Title: Hosianna Davids Son(Georg Joseph Vogler)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0008
+Range: 1148493-1253493
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 08
+Title: Frojda Dig, Du Kristi Brud (Traditional)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0009
+Range: 1253493-1329160
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 09
+Title: Lullaby (Korean Folksong)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0010
+Range: 1329160-1444000
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 10
+Title: Il Est Ne Le Divin Enfant (French Carol)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0011
+Range: 1444000-1702493
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 11
+Title: Julsang (Christmas Song)(Adolphe Adam)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0012
+Range: 1702493-1775333
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 12
+Title: Den Signade Dag (Traditional)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0013
+Range: 1775333-1986333
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 13
+Title: Stille Nacht (Silent Night)(Franz Gruber)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0014
+Range: 1986333-2184333
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 14
+Title: Mariae Wiegenlied(Max Reger)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0015
+Range: 2184333-2485333
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 15
+Title: Jul (Christmas)(Otto Olsson)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0016
+Range: 2485333-2608493
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 16
+Title: Zither Carol (Czech Folksong)
+Artist: Oscar's Motet Choir
+song_end
+song_begin: Classical/Cantate Domino - Oscar's Motet Choir [Japan XRCD2 FLAC]/CDImage.cue/track0017
+Range: 2608493-
+AlbumArtist: Oscar's Motet Choir
+Album: Cantate Domino
+Track: 17
+Title: White Christmas(Irving Berlin)
+Artist: Oscar's Motet Choir
+song_end
+82:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/01 Elgar Cello Concerto - I. Adagio-Moderato.flac
+83:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/02 Elgar Cello Concerto - II. Lento - Allegro molto.flac
+84:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/03 Elgar Cello Concerto - III. Adagio.flac
+85:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/04 Elgar Cello Concerto - IV. Allegro, ma non troppo.flac
+86:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/05 Sea Pictures, Op. 37 - Sea Slumber-Song.flac
+87:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/06 Sea Pictures, Op. 37 - In Haven (Capri).flac
+88:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/07 Sea Pictures, Op. 37 - Sabbath Morning at Sea.flac
+89:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/08 Sea Pictures, Op. 37 - Where Corals Lie.flac
+90:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/09 Sea Pictures, Op. 37 - The Swimmer.flac
+91:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0001
+92:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0002
+93:Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0003
+song_begin: Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0004
+Range: 0-736680
+AlbumArtist: Sir John Barbirolli & London Symphony Orchestra
+Genre: Classical
+Date: 1965
+Track: 04
+Title: Cello Concerto in E minor, Op. 85 - IV. Allegro, ma non troppo
+song_end
+song_begin: Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0005
+Range: 736680-
+AlbumArtist: Sir John Barbirolli & London Symphony Orchestra
+Genre: Classical
+Date: 1965
+Track: 05
+Title: Sea Pictures, Op. 37 - Sea Slumber-Song
+song_end
+song_begin: Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0006
+Range: 301013-
+AlbumArtist: Sir John Barbirolli & London Symphony Orchestra
+Genre: Classical
+Date: 1965
+Track: 06
+Title: Sea Pictures, Op. 37 - In Haven (Capri)
+song_end
+song_begin: Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0007
+Range: 124506-378013
+AlbumArtist: Sir John Barbirolli & London Symphony Orchestra
+Genre: Classical
+Date: 1965
+Track: 07
+Title: Sea Pictures, Op. 37 - Sabbath Morning at Sea
+song_end
+song_begin: Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0008
+Range: 378013-
+AlbumArtist: Sir John Barbirolli & London Symphony Orchestra
+Genre: Classical
+Date: 1965
+Track: 08
+Title: Sea Pictures, Op. 37 - Where Corals Lie
+song_end
+song_begin: Classical/Elgar Cello Concerto & Sea Pictures - Du Pre, Barbirolli & LSO [Japan XRCD24 FLAC]/Elgar_ Cello Concerto Op. 85._ Sea Pictures Op.37. [XRCD24].cue/track0009
+Range: 249506-
+AlbumArtist: Sir John Barbirolli & London Symphony Orchestra
+Genre: Classical
+Date: 1965
+Track: 09
+Title: Sea Pictures, Op. 37 - The Swimmer
+song_end
+100:Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].ape
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0001
+Range: 0-390400
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 01
+Title: Amazing Grace (John Newton)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0002
+Range: 390400-492893
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 02
+Title: Menuet (J.S.Bach)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0003
+Range: 492893-691533
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 03
+Title: Deep River (Spiritual)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0004
+Range: 691533-737360
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 04
+Title: Fum, Fum, Fum (Spanish traditional)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0005
+Range: 737360-1039760
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 05
+Title: Old Folks At Home (Stephen Foster)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0006
+Range: 1039760-1180600
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 06
+Title: Gavotte (Francios~Joseph Gossec)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0007
+Range: 1180600-1395093
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 07
+Title: E Lucevan Le Stelle (Giacomo Puccini)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0008
+Range: 1395093-1656026
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 08
+Title: Beautiful Dreamer (Stephen Foster)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0009
+Range: 1656026-1985533
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 09
+Title: Ave Maria (Franz Shubert)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0010
+Range: 1985533-2102733
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 10
+Title: Joshua Fit The Battle O'Jerico (Spiritual)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0011
+Range: 2102733-2411360
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 11
+Title: Old Black Joe (Stephen Foster)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0012
+Range: 2411360-2496493
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 12
+Title: The Entertainer (Scott Joplin)
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+song_begin: Classical/Gary Karr - Super Double Bass [Japan XRCD24 FLAC]/Gary.Karr.-.[Super.Double.-.Bass].cue/track0013
+Range: 2496493-
+AlbumArtist: Gary Karr  
+Album: Super Double-Bass
+Track: 13
+Title: Adagio In G Minor (Tomaso Albinoni) 
+Artist: Gary Karr  
+Date: 2004
+Genre: misc
+song_end
+114:Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.ape
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0001
+Range: 0-469906
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 01
+Title: Spring Has Come
+Artist: The Gossamer Song
+song_end
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0002
+Range: 469906-758840
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 02
+Title: Parting At Yang Guan
+Artist: The Gossamer Song
+song_end
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0003
+Range: 758840-1111840
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 03
+Title: Poetry of Spring
+Artist: The Gossamer Song
+song_end
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0004
+Range: 1111840-1487400
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 04
+Title: The Gossamer Song
+Artist: The Gossamer Song
+song_end
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0005
+Range: 1487400-2116840
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 05
+Title: Xiao Yao Jing
+Artist: The Gossamer Song
+song_end
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0006
+Range: 2116840-2512933
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 06
+Title: Singing At Leisure
+Artist: The Gossamer Song
+song_end
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0007
+Range: 2512933-2943840
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 07
+Title: Embroidery
+Artist: The Gossamer Song
+song_end
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0008
+Range: 2943840-3381906
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 08
+Title: Lake Hong Capriccio
+Artist: The Gossamer Song
+song_end
+song_begin: Classical/Hui Fen Min Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song [Japan XRCD24 FLAC]/Hui Fen MIN Erhu Xiao Fen MIN Blue Pipa Ensemble - The Gossamer Song.cue/track0009
+Range: 3381906-
+Genre: Classical
+Date: 2004
+AlbumArtist: The Gossamer Song
+Album: The Gossamer Song
+Track: 09
+Title: Song of Mihu
+Artist: The Gossamer Song
+song_end
+124:Classical/Indian/Ragas/01  Raag Nat Bhirav (Trad.).flac
+125:Classical/Indian/Ragas/02  Raag Todi (Trad.).flac
+126:Classical/Indian/Ragas/03  Raag Rageshvari (Trad.).flac
+127:Classical/Indian/Ragas/04  Folk Melody Based on Raag Des (Trad.).flac
+128:Classical/Indian/Ragas/05  Bhajan In Dadora (Vishnu Digamba Palushkar).flac
+129:Classical/Indian/Ragas/06  Bhajan (Mahatma Ghandi).flac
+130:Classical/J.S. Bach Orgelwerke - Zsigmond Szathmary [Japan XRCD24 FLAC]/Zsigmond Szathmary - Orgelwerke von J.S.Bach.flac
+song_begin: Classical/J.S. Bach Orgelwerke - Zsigmond Szathmary [Japan XRCD24 FLAC]/Zsigmond Szathmary - Orgelwerke von J.S.Bach.cue/track0001
+Range: 0-536000
+Genre: Classical
+AlbumArtist: ahhfwww Classical Zsigmond Szathmary
+Album: Orgelwerke von J.S.BACH
+Track: 01
+Title: Toccata und Fuge D-moll, BWV565
+Artist: ahhfwww Classical Zsigmond Szathmary
+song_end
+song_begin: Classical/J.S. Bach Orgelwerke - Zsigmond Szathmary [Japan XRCD24 FLAC]/Zsigmond Szathmary - Orgelwerke von J.S.Bach.cue/track0002
+Range: 536000-1359160
+Genre: Classical
+AlbumArtist: ahhfwww Classical Zsigmond Szathmary
+Album: Orgelwerke von J.S.BACH
+Track: 02
+Title: Passacaglia und Fuge C-moll, BWV582
+Artist: ahhfwww Classical Zsigmond Szathmary
+song_end
+song_begin: Classical/J.S. Bach Orgelwerke - Zsigmond Szathmary [Japan XRCD24 FLAC]/Zsigmond Szathmary - Orgelwerke von J.S.Bach.cue/track0003
+Range: 1359160-1591333
+Genre: Classical
+AlbumArtist: ahhfwww Classical Zsigmond Szathmary
+Album: Orgelwerke von J.S.BACH
+Track: 03
+Title: Fuge G-moll, BWV578
+Artist: ahhfwww Classical Zsigmond Szathmary
+song_end
+song_begin: Classical/J.S. Bach Orgelwerke - Zsigmond Szathmary [Japan XRCD24 FLAC]/Zsigmond Szathmary - Orgelwerke von J.S.Bach.cue/track0004
+Range: 1591333-2323493
+Genre: Classical
+AlbumArtist: ahhfwww Classical Zsigmond Szathmary
+Album: Orgelwerke von J.S.BACH
+Track: 04
+Title: Phantasie und Fuge G-moll, BWV542
+Artist: ahhfwww Classical Zsigmond Szathmary
+song_end
+song_begin: Classical/J.S. Bach Orgelwerke - Zsigmond Szathmary [Japan XRCD24 FLAC]/Zsigmond Szathmary - Orgelwerke von J.S.Bach.cue/track0005
+Range: 2323493-2604333
+Genre: Classical
+AlbumArtist: ahhfwww Classical Zsigmond Szathmary
+Album: Orgelwerke von J.S.BACH
+Track: 05
+Title: 'Wachet auf,ruft uns die Stimme' BWV645
+Artist: ahhfwww Classical Zsigmond Szathmary
+song_end
+song_begin: Classical/J.S. Bach Orgelwerke - Zsigmond Szathmary [Japan XRCD24 FLAC]/Zsigmond Szathmary - Orgelwerke von J.S.Bach.cue/track0006
+Range: 2604333-2721826
+Genre: Classical
+AlbumArtist: ahhfwww Classical Zsigmond Szathmary
+Album: Orgelwerke von J.S.BACH
+Track: 06
+Title: 'Wo soll ich fliehen hin'  BWV646
+Artist: ahhfwww Classical Zsigmond Szathmary
+song_end
+song_begin: Classical/J.S. Bach Orgelwerke - Zsigmond Szathmary [Japan XRCD24 FLAC]/Zsigmond Szathmary - Orgelwerke von J.S.Bach.cue/track0007
+Range: 2721826-
+Genre: Classical
+AlbumArtist: ahhfwww Classical Zsigmond Szathmary
+Album: Orgelwerke von J.S.BACH
+Track: 07
+Title: 'Wer nur den lieben Gott lasst walten' BWV647
+Artist: ahhfwww Classical Zsigmond Szathmary
+song_end
+138:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/01 - Sonata in C major, KV 329.flac
+139:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/02 - Sonata in A major, KV 225.flac
+140:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/03 - Sonata in B flat major, KV 68.flac
+141:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/04 - Sonata in D major, KV 69.flac
+142:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/05 - Sonata in F major, KV 145.flac
+143:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/06 - Sonata in F major, KV 224.flac
+144:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/07 - Sonata in E flat major, KV 67.flac
+145:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/08 - Sonata in C major, KV 328.flac
+146:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/09 - Sonata in C major, KV 263.flac
+147:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/10 - Sonata in G major, KV241.flac
+148:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/11 - Sonata in B flat major, KV 212.flac
+149:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/12 - Sonata in D major, KV 245.flac
+150:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/13 - Sonata in G major, KV 274.flac
+151:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/14 - Sonata in D major, KV 144.flac
+152:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/15 - Sonata in F major, KV 244.flac
+153:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/16 - Sonata in C major, KV 336.flac
+154:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/17 - Sonata in C major 'pro festis Pallii', KV 278.flac
+155:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0001
+156:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0002
+157:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0003
+158:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0004
+159:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0005
+160:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0006
+161:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0007
+162:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0008
+163:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0009
+164:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0010
+165:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0011
+166:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0012
+167:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0013
+168:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0014
+169:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0015
+170:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0016
+171:Classical/Mozart - Complete Church Sonatas [SACD Hybrid FLAC]/Mozart - Complete Church Sonatas.cue/track0017
+172:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/01 Serenade_#13 in G major_Eine Kleine Nachmusik_K 525_Allegro.flac
+173:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/02 Serenade_#13 in G major_Eine Kleine Nachmusik_K 525_Romance Andante.flac
+174:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/03 Serenade_#13 in G major_Eine Kleine Nachmusik_K 525_Menuetto_Allegretto.flac
+175:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/04 Serenade_#13 in G major_Eine Kleine Nachmusik_K525_Rondo_Allegro.flac
+176:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/05 Diverimento B major_Salzburger Sinfonie #2_K137_125b_Andante.flac
+177:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/06 Diverimento B major_Salzburger Sinfonie #2_K137 Allegro di molto.flac
+178:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/07 Diverimento B major_Salzburger Sinfonie #2_K137_Allgro assai.flac
+179:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/08 Diverimento D major_Salzburger Sinfonie #1_K136_125a_Allegro.flac
+180:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/09 Diverimento D major_Salzburger Sinfonie #1_K136_Andante.flac
+181:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/10 Diverimento D major_Salzburger Sinfonie #1_K136_Presto.flac
+182:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/11 Serenade #6 in D major_Serenata Notturna_K239_Marcia_Maestoso.flac
+183:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/12 Serenade #6 in D major_Serenata Notturna_K239_Menuetto.flac
+184:Classical/Mozart Serenades & Divertimenti - Sandor Vegh & Camerata Salzburg [Japan XRCD24 FLAC]/13 Serenade #6 in D major_Serenata Notturna_K239_ K239 Rondeau_Allegro.flac
+185:Classical/Paganini Violin Concerto No.1 & Sarasate Carmen Fantasy - Perlman, Poster & RPO [Japan XRCD2 FLAC]/01 Paganini Violin Concerto No.1 in D-major I. Allegro maestoso, Cadenza.flac
+186:Classical/Paganini Violin Concerto No.1 & Sarasate Carmen Fantasy - Perlman, Poster & RPO [Japan XRCD2 FLAC]/02 Paganini Violin Concerto No.1 in D-major II. Adagio espressivo.flac
+187:Classical/Paganini Violin Concerto No.1 & Sarasate Carmen Fantasy - Perlman, Poster & RPO [Japan XRCD2 FLAC]/03 Paganini Violin Concerto No.1 in D-major III. Rondo (Allegro spiritoso).flac
+188:Classical/Paganini Violin Concerto No.1 & Sarasate Carmen Fantasy - Perlman, Poster & RPO [Japan XRCD2 FLAC]/04 Saraste - Carmen Fantasy, op. 25.flac
+song_begin: Classical/Paganini Violin Concerto No.1 & Sarasate Carmen Fantasy - Perlman, Poster & RPO [Japan XRCD2 FLAC]/Paganini_ Violin Concerto No.1 _ Sarasate_ Carmen Fantasy [XRCD2].cue/track0001
+Range: 0-1157853
+AlbumArtist: Itzhak Perlman & Royal Philharmonic Orchestra (Conductor Lawrence Poster)
+Genre: Classical
+Date: 1972
+Track: 01
+Title: Violin Concerto No.1 in D-major I: Allegro maestoso, Cadenza
+song_end
+song_begin: Classical/Paganini Violin Concerto No.1 & Sarasate Carmen Fantasy - Perlman, Poster & RPO [Japan XRCD2 FLAC]/Paganini_ Violin Concerto No.1 _ Sarasate_ Carmen Fantasy [XRCD2].cue/track0002
+Range: 1157853-
+AlbumArtist: Itzhak Perlman & Royal Philharmonic Orchestra (Conductor Lawrence Poster)
+Genre: Classical
+Date: 1972
+Track: 02
+Title: Violin Concerto No.1 in D-major II: Adagio espressivo
+song_end
+song_begin: Classical/Paganini Violin Concerto No.1 & Sarasate Carmen Fantasy - Perlman, Poster & RPO [Japan XRCD2 FLAC]/Paganini_ Violin Concerto No.1 _ Sarasate_ Carmen Fantasy [XRCD2].cue/track0003
+Range: 304253-581613
+AlbumArtist: Itzhak Perlman & Royal Philharmonic Orchestra (Conductor Lawrence Poster)
+Genre: Classical
+Date: 1972
+Track: 03
+Title: Violin Concerto No.1 in D-major III: Rondo (Allegro spiritoso)
+song_end
+song_begin: Classical/Paganini Violin Concerto No.1 & Sarasate Carmen Fantasy - Perlman, Poster & RPO [Japan XRCD2 FLAC]/Paganini_ Violin Concerto No.1 _ Sarasate_ Carmen Fantasy [XRCD2].cue/track0004
+Range: 581613-
+AlbumArtist: Itzhak Perlman & Royal Philharmonic Orchestra (Conductor Lawrence Poster)
+Genre: Classical
+Date: 1972
+Track: 04
+Title: Carmen Fantasy, op. 25
+song_end
+193:Classical/Phil Keaggy/Beyond Nature/A Place of Springs.mp3
+194:Classical/Phil Keaggy/Beyond Nature/Addisons Walk.mp3
+195:Classical/Phil Keaggy/Beyond Nature/As Warm As Tears.mp3
+196:Classical/Phil Keaggy/Beyond Nature/Brother Jack.mp3
+197:Classical/Phil Keaggy/Beyond Nature/County Down-.mp3
+198:Classical/Phil Keaggy/Beyond Nature/Fare Thee Well.mp3
+199:Classical/Phil Keaggy/Beyond Nature/Fragile Forest.mp3
+200:Classical/Phil Keaggy/Beyond Nature/I Feel the Winds of God Today.mp3
+201:Classical/Phil Keaggy/Beyond Nature/In the Light of the Common Day (Reprise).mp3
+202:Classical/Phil Keaggy/Beyond Nature/In the Light of the Common Day.mp3
+203:Classical/Phil Keaggy/Beyond Nature/Symphonic Dance (A Variation On Allegretto Grazioso).mp3
+204:Classical/Phil Keaggy/Beyond Nature/When Night Falls.mp3
+205:Classical/Tchaikovsky/01 - Piano Concerto No. 1- Allegro non troppo.flac
+206:Classical/Tchaikovsky/02 - String Serenade- Waltz.flac
+207:Classical/Tchaikovsky/03 - Violin Concerto- Andante.flac
+208:Classical/Tchaikovsky/04 - The Sleeping Beauty- Ballet Suite Introduction.flac
+209:Classical/Tchaikovsky/05 - Pas d'action- Adagio.flac
+210:Classical/Tchaikovsky/06 - Waltz.flac
+211:Classical/Tchaikovsky/07 - Capriccio italien Op. 45.flac
+212:Classical/Tchaikovsky/08 - Swan Lake- Ballet Suite Scene No. 10.flac
+213:Classical/Tchaikovsky/09 - Waltz.flac
+214:Classical/Tchaikovsky/10 - Eugene Onegin- Polonaise.flac
+215:Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/(01) Tchaikovsky ~ 1812 Overture, Op.49.flac
+216:Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/(02) Franz Liszt ~ Mephisto Waltz.flac
+217:Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/(03) Weinberger ~ Polka & Fugue from 'Schwanda'.flac
+218:Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/(04) Smetana ~ Overture to 'The Bartered Bride'.flac
+219:Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/(05) Dvorák ~ Carnival Overture, Op.92.flac
+song_begin: Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/CDImage.ape.cue/track0001
+Range: 0-758933
+AlbumArtist: Tchaikovsky
+Album: Tchaikovsky - 1812 Overture
+Track: 01
+Title: Tchaikovsky ~ 1812 Overture, Op.49
+Artist: Tchaikovsky
+song_end
+song_begin: Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/CDImage.ape.cue/track0002
+Range: 758933-1442200
+AlbumArtist: Tchaikovsky
+Album: Tchaikovsky - 1812 Overture
+Track: 02
+Title: Franz Liszt ~ Mephisto Waltz
+Artist: Tchaikovsky
+song_end
+song_begin: Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/CDImage.ape.cue/track0003
+Range: 1442200-2009893
+AlbumArtist: Tchaikovsky
+Album: Tchaikovsky - 1812 Overture
+Track: 03
+Title: Weinberger ~ Polka & Fugue from 'Schwanda'
+Artist: Tchaikovsky
+song_end
+song_begin: Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/CDImage.ape.cue/track0004
+Range: 2009893-2406893
+AlbumArtist: Tchaikovsky
+Album: Tchaikovsky - 1812 Overture
+Track: 04
+Title: Smetana ~ Overture to 'The Bartered Bride'
+Artist: Tchaikovsky
+song_end
+song_begin: Classical/Tchaikovsky - 1812 etc. Fritz Reiner Chicago SO [Japan JM-XR24016 XRCD24 FLAC]/CDImage.ape.cue/track0005
+Range: 2406893-
+AlbumArtist: Tchaikovsky
+Album: Tchaikovsky - 1812 Overture
+Track: 05
+Title: Dvor?k ~ Carnival Overture, Op.92
+Artist: Tchaikovsky
+song_end
+225:Classical/Tchaikovsky - Piano Concerto No. 1 [Japan XRCD FLAC]/(01) Piano Concerto No. 1 in B-flat Minor, Op.23 - I. Allegro non troppo e molto m....flac
+226:Classical/Tchaikovsky - Piano Concerto No. 1 [Japan XRCD FLAC]/(02) Piano Concerto No. 1 in B-flat Minor, Op.23 - II. Andantino simplice.flac
+227:Classical/Tchaikovsky - Piano Concerto No. 1 [Japan XRCD FLAC]/(03) Piano Concerto No. 1 in B-flat Minor, Op.23 - III. Allegro con fuoco.flac
+song_begin: Classical/Tchaikovsky - Piano Concerto No. 1 [Japan XRCD FLAC]/Arthur Rubinstein - Tchaikovsky  PIano Concerto No. 1.cue/track0001
+Range: 0-1169560
+Genre: Piano Concerto
+Date: 1963
+AlbumArtist: Arthur Rubinstein
+Album: Tchaikovsky: PIano Concerto No. 1
+Track: 01
+Title: Piano Concerto No. 1 in B-flat Minor, Op.23 - I. Allegro non troppo e molto m...
+Artist: Arthur Rubinstein
+song_end
+song_begin: Classical/Tchaikovsky - Piano Concerto No. 1 [Japan XRCD FLAC]/Arthur Rubinstein - Tchaikovsky  PIano Concerto No. 1.cue/track0002
+Range: 1169560-1603493
+Genre: Piano Concerto
+Date: 1963
+AlbumArtist: Arthur Rubinstein
+Album: Tchaikovsky: PIano Concerto No. 1
+Track: 02
+Title: Piano Concerto No. 1 in B-flat Minor, Op.23 - II. Andantino simplice
+Artist: Arthur Rubinstein
+song_end
+song_begin: Classical/Tchaikovsky - Piano Concerto No. 1 [Japan XRCD FLAC]/Arthur Rubinstein - Tchaikovsky  PIano Concerto No. 1.cue/track0003
+Range: 1603493-
+Genre: Piano Concerto
+Date: 1963
+AlbumArtist: Arthur Rubinstein
+Album: Tchaikovsky: PIano Concerto No. 1
+Track: 03
+Title: Piano Concerto No. 1 in B-flat Minor, Op.23 - III. Allegro con fuoco
+Artist: Arthur Rubinstein
+song_end
+231:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/01 Saint-Saens： The Swan [1886].flac
+232:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/02 Rachmaninoff： Vocalise [1912].flac
+233:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/03 Casals： Sardana [1927].flac
+234:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/04 Balcombe： Greensleeves Suite [1993].flac
+235:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/05 Bernstein： Tonight, from West Side Story [1957].flac
+236:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/The London Cello Sound [XRCD24].cue/track0001
+237:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/The London Cello Sound [XRCD24].cue/track0002
+238:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/The London Cello Sound [XRCD24].cue/track0003
+239:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/The London Cello Sound [XRCD24].cue/track0004
+240:Classical/The London Cello Sound - 40 Cellos Of London UK [Japan XRCD24 FLAC]/The London Cello Sound [XRCD24].cue/track0005
+241:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD1/01 - Prelude.flac
+242:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD1/02 - 1. Akt - He! Ho! Waldhueter ihr!.flac
+243:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD1/03 - 1. Akt - Recht so! Habt Dank! Ein wenig Rast..flac
+244:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD1/04 - 1. Akt - Nicht Dankt! Ha, ha! Was wird es helfen.flac
+245:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD1/05 - 1. Akt - O wunden-wundervoller heiliger Speer!.flac
+246:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD1/06 - 1. Akt - Titurel, der fromme Held, der kannt' ihn wohl..flac
+247:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD1/07 - 1. Akt - Weh'! Weh'! Hoho! Auf! Wer ist der Frevler.flac
+248:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD1/08 - 1. Akt - Nun sag'- nichts weisst du, was ich dich frage..flac
+249:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD2/01 - 1. Akt - Vom Bade kehrt der Koenig heim..flac
+250:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD2/02 - 1. Akt - Verwandlungsmusik (Transformation Music).flac
+251:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD2/03 - 1. Akt - Nun achte wohl, und lass mich seh'n..flac
+252:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD2/04 - 1. Akt - Mein Sohn, Amfortas, bist du am Amt.flac
+253:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD2/05 - 1. Akt - Enthuellet den Gral!.flac
+254:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD2/06 - 1. Akt - Wein und Brot des letzten Mahles.flac
+255:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/01 - 2. Akt - Vorspiel.flac
+256:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/02 - 2. Akt - Die Zeit ist da. Schon lockt mein Zauberschloss den Toren..flac
+257:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/03 - 2. Akt - Ach! Ach! Tiefe Nacht!.flac
+258:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/04 - 2. Akt - Hier war das Tosen! Hier, hier!.flac
+259:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/05 - 2. Akt - Komm'! Komm'! Holder Knabe!.flac
+260:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/06 - 2. Akt - Parsifal! Weile!.flac
+261:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/07 - 2. Akt - Dies alles hab' ich nun getraeumt.flac
+262:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/08 - 2. Akt - Ich sah das Kind an seiner Mutter Brust.flac
+263:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/09 - 2. Akt - Wehe! Wehe! Was tat ich Wo war ich.flac
+264:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/10 - 2. Akt - Amfortas! Die Wunde! Die Wunde!.flac
+265:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/11 - 2. Akt - Grausamer! Fuehlst du im Herzen nur and'rer Schmerzen..flac
+266:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD3/12 - 2. Akt - Vergeh, unseliges Weib!.flac
+267:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/01 - 3. Akt - Vorspiel.flac
+268:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/02 - 3. Akt - Von dorther kam das Stoehen..flac
+269:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/03 - 3. Akt - Heil dir, mein Gast!.flac
+270:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/04 - 3. Akt - Heil mir, dass ich dich wiederfinde!.flac
+271:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/05 - 3. Akt - Nicht so! Die heil'ge Quelle selbst erquicke unsres Pilgers Bad..flac
+272:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/06 - 3. Akt - Du siehst, das ist nicht so..flac
+273:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/07 - 3. Akt - Mittag. Die Stund' ist da..flac
+274:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/08 - 3. Akt - Geleiten wir im bergenden Schrein..flac
+275:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/09 - 3. Akt - Ja! Wehe! Wehe! Weh' ueber mich!.flac
+276:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/10 - 3. Akt - Nur eine Waffe taugt.flac
+277:Classical/Wagner - Parsifal [Lehman, Urmana, Pape - Valery Gergiev, 2009] Mariinsky [SACD Hybrid FLAC]/CD4/11 - 3. Akt - Hoechsten heiles Wunder!.flac
 playlist_end

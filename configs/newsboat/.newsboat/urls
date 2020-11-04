@@ -3,14 +3,9 @@
 
 " "
 "(YOUTUBE)"
-https://www.youtube.com/feeds/videos.xml?channel_id=UC-lHJZR3Gqxm24_Vd_AJ5Yw Youtube 
 https://www.youtube.com/feeds/videos.xml?channel_id=UC2eYFnH61tmytImy1mTYvhA Youtube 
 https://www.youtube.com/feeds/videos.xml?channel_id=UC7_YxT-KID8kRbqZo7MyscQ Youtube 
-https://www.youtube.com/feeds/videos.xml?channel_id=UCBvDXebA81UObfspLZrhh_Q Youtube 
-https://www.youtube.com/feeds/videos.xml?channel_id=UCI8GDFj5BQCQrSHITFebzkA Youtube 
-https://www.youtube.com/feeds/videos.xml?channel_id=UCKYcfq8_yAieQRZ81M_A7hw Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCQkd05iAYed2-LOmhjzDG6g Youtube
-https://www.youtube.com/feeds/videos.xml?channel_id=UCS_0Yt7tPIgDQXmwhAMNIsw Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCUQTqWAaSzhAKRanOpes1nA Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCVfwlh9XpX2Y_tQfjeln9QA Youtube
 https://www.youtube.com/feeds/videos.xml?channel_id=UCVls1GmFKf6WlTraIb_IaJg Youtube
@@ -35,6 +30,7 @@ https://www.youtube.com/feeds/videos.xml?channel_id=UCsnGwSIHyoYN0kiINAGUKxg You
 "(PODCASTS)"
 https://notrelated.xyz/rss "~Not Related" "Podcasts" 
 https://wretched.org/category/radio/feed/ "~Wretched Radio" "Podcasts"
+https://lutherinrealtime.ligonier.org/rss
 " "
 "(BLOGS)"
 # Bryan Lunduke

@@ -1,7 +1,10 @@
 #!/bin/sh
 pulseaudio -D &
 mpd &
-xrdb ~/.local/share/xresources/solarized &
-xwallpaper --stretch /mnt/ext/Media/Pix/walpix/solarized/solarized_root.png &
+xrdb ~/.local/share/xresources/onedark &
+#xwallpaper --stretch /mnt/ext/Media/Pix/walpix/solarized/solarized_root.png &
+. ~/.fehbg &
 xset r rate 300 50 &
 dwmbar &
+source ~/.local/bin/dunst_reload.sh &
+unclutter 1s &

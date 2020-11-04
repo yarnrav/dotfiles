@@ -4,10 +4,12 @@ let g:startify_lists = [
           \ ]
 
 let g:startify_bookmarks = [
-            \ { 'c': '~/git/dwm/config.h' },
             \ { 'i': '~/.config/vim/vimrc' },
             \ { 'z': '~/.config/zsh/.zshrc' },
-            \ '~/ext/Experiment/Coding',
+            \ { 'z': '~/.config/zsh/.zshrc' },
+            \ { '4': '/mnt/ext/Experiment/Coding/C/libcurl'},
+            \ { 'g': '/mnt/ext/Experiment/Coding/C/gtk'},
+            \ { 'l': '/mnt/ext/Experiment/Coding/Lisp/Learn'},
             \ ]
 
 let g:startify_session_delete_buffers = 1
